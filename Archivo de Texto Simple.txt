@@ -4,3 +4,6 @@ Tercera Línea de Código
 
 Cuarta Línea de Código
 Quinta Línea de Código
+
+Sexta Línea de Código
+Séptima Línea de Código
