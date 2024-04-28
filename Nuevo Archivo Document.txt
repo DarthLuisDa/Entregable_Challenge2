@@ -1,2 +1,4 @@
 Funcionalidad Suma Suma Suma 
+Funcionalidad Resta
+
 Cambios Adicionales a la rama feature
